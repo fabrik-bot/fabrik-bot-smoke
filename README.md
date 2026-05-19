@@ -5,7 +5,7 @@ pipeline: candidate submission → ticket-to-pr spawn → fork → upstream PR.
 
 ## What this repo is for
 
-This repository exists soley to verify that the Fabrik OSS prospector can:
+This repository exists solely to verify that the Fabrik OSS prospector can:
 
 1. Receive a candidate (manually or via discovery)
 2. Spawn a `ticket-to-pr` worker against this upstream
